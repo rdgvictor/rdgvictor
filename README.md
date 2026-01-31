@@ -1,11 +1,13 @@
-## 👨🏻‍💻 Victor Rodrigues
+## Victor Rodrigues
 
 **`Desenvolvedor Back-end`**
 
 Arquiteto e Urbanista formado pelo Centro Universitário das Américas, em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack. Possui sólida base em raciocínio lógico, resolução de problemas e organização de sistemas, direcionando seus estudos para arquitetura de software, APIs e boas práticas, com o objetivo de desenvolver soluções digitais robustas e escaláveis.
 
+#### Linguagens e Tecnologias
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
@@ -18,7 +20,3 @@ Arquiteto e Urbanista formado pelo Centro Universitário das Américas, em trans
   <a href = "mailto:victor.mjrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
-##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdgvictor&show_icons=true&theme=radical)
