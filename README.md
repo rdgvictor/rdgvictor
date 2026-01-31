@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Arquiteto e Urbanista formado pelo Centro Universitário das Américas, em transição de carreira para a área de tecnologia, com foco em desenvolvimento Full Stack. Possui sólida base em raciocínio lógico, resolução de problemas e organização de sistemas, direcionando seus estudos para arquitetura de software, APIs e boas práticas, com o objetivo de desenvolver soluções digitais robustas e escaláveis.
+Arquiteto e Urbanista formado pelo Centro Universitário das Américas, em transição de carreira para a área de tecnologia, com foco em desenvolvimento Back-end. Possui sólida base em raciocínio lógico, resolução de problemas e organização de sistemas, direcionando seus estudos para arquitetura de software, APIs e boas práticas, com o objetivo de desenvolver soluções digitais robustas e escaláveis.
 
 #### Linguagens e Tecnologias
 
