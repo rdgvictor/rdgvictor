@@ -21,4 +21,4 @@ Arquiteto e Urbanista formado pelo Centro Universitário das Américas, em trans
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?userrdgvictoranuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdgvictor&show_icons=true&theme=radical)
